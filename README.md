@@ -23,7 +23,7 @@ No additional libraries required.
 
 
 **Clone the Repository:**
-git clone https://github.com/your-username/hangman-game.git
+git clone https://github.com/ARUNAGIRINATHAN-K/hangman-game.git
 cd hangman-game
 
 
